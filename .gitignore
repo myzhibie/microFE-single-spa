@@ -40,5 +40,7 @@ testem.log
 /typings
 
 # System Files
-.DS_Store
+/my-app/.DS_Store
+/my-app2/.DS_Store
+/my-parcel/.DS_Store
 Thumbs.db
